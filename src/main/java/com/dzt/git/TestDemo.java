@@ -5,5 +5,7 @@ public class TestDemo {
         System.out.println("hello,java");
         System.out.println("hello,Scala");
         System.out.println("hello,Hadoop");
+        System.out.println("hello,hot-fix");
+
     }
 }
