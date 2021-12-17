@@ -7,6 +7,7 @@ public class TestDemo {
         System.out.println("hello,Hadoop");
         System.out.println("hello,hot-fix");
         System.out.println("hello,master");
+        System.out.println("hello,Spark");
 
     }
 }
